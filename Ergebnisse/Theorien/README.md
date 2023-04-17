@@ -1,2 +1,4 @@
-# bachelorarbeit-aaron-bishop
-Design und Durchführung einer systematischen Literaturrecherche zur Erlangung eines vereinheitlichten Verständnisses des Begriffs „Metaverse“
+- Definitionen der selektierten Artikel
+- Graphiken zu den gefundenen Metaverse-Keywords: Häufigkeitsverteilung und Gegenüberstellung von Herkunftsländern und auch anderen Metadaten der Artikel
+- Extrahierte Keywords der Definitionen im JSON-Format
+- Zusammengefasste Keywords im JSON-Format nach der Verwendung der Keywords-Zusammenfassungstabelle.
