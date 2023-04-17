@@ -1,7 +1,6 @@
 # bachelorarbeit-aaron-bishop
 
-## Bachelorarbeit
-zur Erlangung des Grades „Bachelor of Science (B.Sc.) Informatik / Computational Science“ an der mathematisch-naturwissenschaftlichen Fakultät der Universität Potsdam
+GitHub-Repository zur Bachelorarbeit im Studiengang Informatik / Computational Science“ an der mathematisch-naturwissenschaftlichen Fakultät der Universität Potsdam
 über das Thema
 
 ### Design und Durchführung einer systematischen Literaturrecherche zur Erlangung eines vereinheitlichten Verständnisses des Begriffs „Metaverse“
@@ -11,7 +10,9 @@ Matrikel Nr.:
 798075
 
 vorgelegt von:	Aaron Bishop
+
 Kladower Damm 326
+
 14089 Berlin
 
 E-Mail:	aaron.bishop@uni-potsdam.de
