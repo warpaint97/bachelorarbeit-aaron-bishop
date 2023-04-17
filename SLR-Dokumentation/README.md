@@ -22,3 +22,6 @@ Eingabe der Suchstrings in die Suchmasken der Datenbanken zur Überprüfung der 
 Eingabe der Suchstrings in die Suchmasken der Datenbanken
 
 Erste Suche und die Überprüfung der Trefferzahlen der Datenbanken über verschiedene Suchfelder basierend auf dem ersten Suchstring
+
+### Ergebnisse des Synonym-Thesaurus
+Gefundene Synonyme auf https://www.thesaurus.com (abgerufen am 03.10.2022)
