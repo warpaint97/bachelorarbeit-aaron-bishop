@@ -1,2 +1,1 @@
-# bachelorarbeit-aaron-bishop
-Design und Durchführung einer systematischen Literaturrecherche zur Erlangung eines vereinheitlichten Verständnisses des Begriffs „Metaverse“
+Ergebnisse der der Arbeit untergliedert gefundene Metaverse-Theorien, potenzielle Implementierungen, Anwendungsszenarien.
