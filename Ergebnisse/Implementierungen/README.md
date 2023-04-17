@@ -1,2 +1,3 @@
-# bachelorarbeit-aaron-bishop
-Design und Durchführung einer systematischen Literaturrecherche zur Erlangung eines vereinheitlichten Verständnisses des Begriffs „Metaverse“
+- Gefundene Definitionen der Metaverse-Implementierungen Roblox, Decentraland und Meta Horizon Suite
+- Extrahierte Keywords der drei Metaverse-Implementierungen im JSON-Format
+- Tabelle der gefundenen (potenziellen) Metaverse-Implementierungen
