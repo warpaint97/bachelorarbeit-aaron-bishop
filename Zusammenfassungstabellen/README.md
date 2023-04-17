@@ -1,2 +1,3 @@
-# bachelorarbeit-aaron-bishop
-Design und Durchführung einer systematischen Literaturrecherche zur Erlangung eines vereinheitlichten Verständnisses des Begriffs „Metaverse“
+
+Tabelle 22: Tabelle zur Zusammenfassung und Reduktion der Keywords aus den Rohdaten
+Tabelle zur Kategorisierung der gefundenen Anwendungsszenarien
