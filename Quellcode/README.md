@@ -1,2 +1,2 @@
-# bachelorarbeit-aaron-bishop
-Design und Durchführung einer systematischen Literaturrecherche zur Erlangung eines vereinheitlichten Verständnisses des Begriffs „Metaverse“
+### PaperClass.py
+Python-Objekt zur Normalisierung und Weiterverarbeitung der JSON-Daten
