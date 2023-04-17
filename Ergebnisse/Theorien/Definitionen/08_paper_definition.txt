@@ -1,0 +1,10 @@
+Definition:
+Corporate-controlled metaverse platforms:
+A Metaverse is a "persistent" and "immersive" "simulated world" that is "experienced" in the "first person" by large groups of simultaneous "users" who share a strong sense of "mutual presence" (public sphere). It can be a fully "virtual environment" (i.e., a Virtual Metaverse) or it can exist as layers of virtual content overlaid on the real world with convincing spatial registration (i.e., an Augmented Metaverse). "AR" and "VR" technologies are a part of the metaverse and focus on "interactivity" and allow for "real-time" "tracking" of the users.
+The definition should allow for self-contained worlds rather than solely a single interoperable metaverse.
+There will be "multiple metaverse platforms" that will track all kinds of data from "facial expressions", "speech", "emotional state", "body tracking" and more.
+Agenda-driven "AI agents" in form of "avatars" will be able to approach users and interpret their data.
+"Platform" providers controlling the metaverse will not just know how their users physically act and interact, but how they emotionally react as they traverse "real and virtual spaces" (physical-virtuality).
+
+Anwendungen:
+social; shopping; education; business;

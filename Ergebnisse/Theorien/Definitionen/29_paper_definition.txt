@@ -1,0 +1,10 @@
+Definition:
+Minimal Metaverse:
+Metaverse "environments" are a "three-dimensional" "virtual reality" that uses "avatars". Sensitive user data such as "identity", "password", and "biometric information" are managed by each platform server. "Metaverse platforms" aim to provide a more "realistic" "experience". In a metaverse environment, users can "access" various virtual "spaces" using "smart devices" such as "goggles" and earphones, and engage in various remote and virtual "activities" including education, travel, and trade, using avatars. In other words, a metaverse environment can be defined as a three-dimensional virtual reality in which "social, cultural, and economic activities" are possible using avatars. Thus, the metaverse environments can provide more "immersive" "experiences" than existing online environments and they are expected to be used widely. "Users" can "communicate" with the platform servers and transmit their physical information such as "gaze and motion data" using their smart devices. The platform servers provide various virtual spaces to the users and render the user’s avatar in "real-time" using the received "physical data". In addition, the users can utilize their avatars to communicate with other avatars for "interactions" such as trading and chatting through the platform server. "Virtual assets" are also associated with a user.
+
+Proposed Metaverse Environment:
+In this system model, user identification data are managed transparently using blockchain technology.
+In addition, we proposed a secure mutual authentication scheme between users and platform servers and between avatars and avatars using ECC and biometric information.
+
+Anwendungen:
+social, cultural & economic activities; education; travel; trade; chatting;

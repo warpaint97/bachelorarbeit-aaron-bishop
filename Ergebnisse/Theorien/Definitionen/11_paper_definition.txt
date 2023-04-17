@@ -1,0 +1,8 @@
+Definition:
+Web3D Consortium Metaverse Vision:
+The Metaverse vision of "shared" "digital" "worlds" been established in the past. A fully successful 'Metaverse' will not be collection of separate "walled gardens" or "microverses". Rather, we see it as a constellation of connected "multi-dimensional" realistic and/or fantasy computer generated (i.e. virtual) or augmented worlds in which people will work, learn, play, buy, sell, communicate, collaborate, "interact" and travel, pursueing their tasks "without the constrains of physical space and time". A "Unified Metaverse" will require all of the above as well as the ability to move between 'microverses' without dropping out of 3D mode. Such unification will require "interoperability" and this interoperability will require an open Web "standard" and a technology to facilitate seamless movement between worlds. Therefore, the Metaverse will emerge as a property of the current primarily 2D WWW with interconnection and interoperability between "online", "networked" microverses created, as is the Web, by individuals, corporations and institutions. "Interconnection" between microverses will be provided by the "WWW" itself.
+These virtual multimedia and data-driven worlds can be experienced synchronously or asynchronously at a WWW address. This has been a reality of virtual reality and Web3D for over 20 years.
+Web3D's vision of the Metaverse is one that is "open/accessible" and "unified" with "seamless" movement between diverse world without leaving the immersive "3D environment" "experience". It allows "users" to use an "personalized avatar".
+
+Anwendungen:
+work; learn; play; sell; communicate; collaborate; interact; travel;

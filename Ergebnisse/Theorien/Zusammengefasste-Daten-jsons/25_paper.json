@@ -1,0 +1,62 @@
+{
+    "title": "6G-Enabled Edge AI for Metaverse: Challenges, Methods, and Future Research Directions",
+    "doi": "10.23919/JCIN.2022.9815195",
+    "language": "english",
+    "countries": [
+        "China",
+        "Singapore"
+    ],
+    "database": "IEEE",
+    "type": "Journal",
+    "meta": [
+        "serious",
+        "academic",
+        "academia",
+        "industry"
+    ],
+    "variants": [
+        "industrial metaverse"
+    ],
+    "keywords": [
+        "fully immersive",
+        "co-presence",
+        "pervasive",
+        "virtual/digital",
+        "identity",
+        "avatars",
+        "interactive",
+        "3D",
+        "real-time",
+        "low-latency",
+        "XR",
+        "MR",
+        "AR and/or VR",
+        "HCI",
+        "fully decentralized",
+        "blockchain",
+        "cryptocurrencies",
+        "interoperable",
+        "virtual/digital objects/assets",
+        "network",
+        "high quality content/experiences",
+        "AI",
+        "Multimodal",
+        "big data",
+        "persistent",
+        "virtual world/environment",
+        "virtual economic system",
+        "social interaction",
+        "services",
+        "internet",
+        "digital twins",
+        "physical-virtuality",
+        "social network",
+        "scalable",
+        "edge computing",
+        "cloud computing",
+        "handbased input devices",
+        "non-handbased input devices",
+        "materialization",
+        "scene/object recognition/synthesis"
+    ]
+}

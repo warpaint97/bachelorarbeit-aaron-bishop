@@ -1,0 +1,16 @@
+Definition:
+Minimal Metaverse:
+Recently the metaverse is seen as an "online" virtual and multiplayer games enabled by social interactions, training and trading creatures, and virtual "economy" with "nonfungible tokens" (NFTs).
+Technically, the metaverse pursues 1) a comprehensive virtualized or "virtually-physically" fused (physical-virtuality) "immersive" "experience"; 2) an online or "cloud-to-device" "3D" "interactive" "world" with "human and device interfacing" (HCI) and teaming; 3) a vivid application for demonstrating the metaverse design, applications and "services"; 4) a rich ecosystem with trading markets, financial services, economic activities, and "social" services; and 5) a suite of enabling technologies for infrastructure, interfacing, interaction, design and development tools.
+"DeAI" is a critical enabling technique for smart blockchain, Web3, the metaverse, and DeSci. The Metaverse upgrades the initiatives of "digital twins" and "virtual reality". The metaverse forms a "virtual society" and a virtuality-reality continuum.
+
+Smart Metaverse:
+The smart metaverse is thus essential to make the digital or dual world smarter and incorporate AI success in the physical world with the metauniverse. This includes enabling digital agents (intelligent avatars) and society with intelligent capabilities of understanding, perceiving, reasoning, communicating, analyzing, learning, optimizing, planning, and reflecting on their self and societal behaviors, activities and consequences in the digital world and intelligent interactions, cooperation, communication and problem solving between agents, between agents and humans, and through teaming and alliance in the cyber-physical social world (CPSS) over time, space, and episode.
+Smart virtual-reality Metaverse synthesizes DeAI, blockchain Web3.0 and other relevant technologies for smart immersive digital and virtual-physical applications and services.
+
+DeAI:
+DeAI aims to develop decentralized intelligent systems and services. It lightens and advances smart blockchain, Web3, the metaverse, DAOs, and DeSci, and their ecosystems.
+New areas of cloud edge learning, federated edge learning, mobile edge learning, and blockchain edge learning will become paramount in the metaverse.
+
+Anwendungen:
+teaming;

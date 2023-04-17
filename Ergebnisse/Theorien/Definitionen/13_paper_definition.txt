@@ -1,0 +1,11 @@
+Definition:
+Minimal Metaverse:
+The metaverse is built mainly through virtual reality "experiences". It consists of "immersive", "shared" "virtual environments/worlds". It is a "parallel universe" "merging physical and virtual elements" (AR). "VR" technology is able to reproduce the "user's" hand and head gestures. Meta has presented what "interacting" and working in the metaverse will look like. Apple has a different vision and believes that the metaverse would be accessed rather through augmented reality glasses.
+
+Emotionally Augmented Metaverse:
+It shall utilize "physiological sensors" for commercial headsets to allow emotionally augmented interactions in the metaverse. Emotionally augmented "avatars" are able to visually represent stress or other "emotional states" that might not be visible at a human glance in real life. "Automatic tailoring of metaverse content" based on the desired emotional response should be possible. (content creation)
+The road towards an emotionally augmented metaverse is still long and many studies should still be conducted for providing emotionally rich experience in the metaverse.
+
+Anwendungen:
+working; self-reflection on current emotional status, via biofeedback, improving user’s self-regulation in stressful situations;
+

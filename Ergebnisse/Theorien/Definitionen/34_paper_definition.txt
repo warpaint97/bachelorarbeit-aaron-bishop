@@ -1,0 +1,13 @@
+Definition:
+Metaverse:
+The Metaverse, deemed as a hypothetical "next-generation Internet", aims to be a "utopian" convergence of various "virtual environments" and eventually "blend the physical and digital world" (physical-virtuality).
+The Metaverse strives to create a "shared" "virtual" "world" by bridging all virtual environments through the Internet. "Users’" "interaction" with the virtual environment is required in the Metaverse. The full-fledged Metaverse should offer "social interaction", "user experience" and much better "avatar" "embodiment", for example, by recreating the full-body motion via kinematics, to provide a truly "immersive" "experience". The Metaverse shall serve "billions of users" simultaneously in the shared, "interoperable" virtual world. The "network" infrastructure and system architecture of the Metaverse should be designed with "scalability" in mind, differently from the current practice. Popular social VR platforms are one of the key enablers of the Metaverse.
+
+Social VR:
+Social VR platforms can be viewed as a rudimentary prototype of the Metaverse. Social virtual reality enables users around the world to interact and socialize with each other in a shared, interoperable, and virtual environment. In a virtual social world, users are embodied by digital avatars (i.e., a first-person rendition via 3D models).
+Social VR platforms offer numerous features that can be divided into two categories. As basic features, these platforms all enable users to walk and chat in a virtual space (e.g., a conference room). In terms of advanced features, users can interact more with each other and the platforms, such as playing games, creating user generated content (UGC), and shopping/trading with non-fungible tokens (NFTs).
+Avatar appearance on social VR platforms can affect the immersive experience of users, including their sense of identity, presence, co-presence, and interaction with others.
+A wide range of topics of social VR has been studied by HCI researchers such as interaction with avatars and interpersonal relationships.
+
+Anwendungen:
+public event; concert; private event; online meeting; shopping; trading; games; remote learning; dancing; watching movies; hosting conferences;

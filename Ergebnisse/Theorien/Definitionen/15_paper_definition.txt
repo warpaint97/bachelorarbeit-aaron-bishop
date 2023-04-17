@@ -1,0 +1,13 @@
+Definition:
+Minimal Metaverse:
+"Immersive cyberspace", known as the Metaverse.
+Various functions of "life" will be "online" in the "virtual" "world".
+The metaverse refers to an immersive "Internet", characterized by an endless and gigantic "virtual environment" that is able to accomodate a "million users" for activites (e.g. "content creation") simultaneously.
+The metaverse is initiated by the concept of "digital twins". Also, there should exist "digital assets".
+Multimodal interaction in virtual world as well as "real-time", "presence", "realism" and "3D" graphics regarding virtual scenes and "avatars".
+
+Interplanetary Turn-based Metaverse:
+It allows for multimodal interactions. Non-real-time turn takings. When the AI-driven embodied agents meet the Metaverse, the avatars, perhaps assisted by AIs or intelligent agents, can interact with other avatars in such an interplanetary virtual environment. Captured data from the user's facial expression, physical body movements, and other internal states (biosignals) can be converted into a dataset representing the user interaction trace mapping to conversation dialogues. The avatars, as a type of digital twins, can leverage the dataset to reconstruct and manage high-resolution user interaction in the Metaverse, including verbal communication (e.g. text) and non-verbal interaction. There is a trade-off between "user experience" and resource allocation. Intermediary spacecraft that operated as a Metaverse server. AI-based behaviour modeling will be the core of these digital twins.
+
+Anwendungen:
+Interplanetary communication; meetings; gatherings;

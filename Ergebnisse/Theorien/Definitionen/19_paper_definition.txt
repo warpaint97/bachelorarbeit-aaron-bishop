@@ -1,0 +1,19 @@
+Definition:
+Minimal Metaverse:
+Metaverse is the "future of the internet". It's a "3D" "virtual" "world" of "online" "social networking" and a "persistent" and "decentralized" 3D "virtual environment" in which "users" "interact" via highly "customizable computer avatars". 
+It related to a collection of technological devices that are related to "IoT", "blockchain", "AI" and many other areas.
+Data in "a metaverse platform" has a special identification tag and can be used as "traceable data" in a "blockchain"-based system.
+Users may access the metaverse virtual space through "VR glasses", "augmented reality glasses", but VR is the most immersive method. "Digital assets" and private information are associated with a person.
+It's a necessity that "sensors" interact with a "real-time" virtual world.
+Four important factors of a fully functioning Metaverse (integrated network of 3D virtual worlds) exist: 
+"Realism" ("emotional user experience"), "ubiquity/pervasiveness" ("accessibility"), "interoperability" (synchronicity & continuity of digital assets and user movement), and "scalability".
+
+Finger vein:
+Finger vein is a biometric feature hidden beneath the skin. It is more secure in person verification than other hand-based biometric characteristics (e.g. finger print, etc.). A finger vein recognition system is developed based on a convolutional neural network and a anti-aliasing technique.
+Reliable identity verification system ("authentification") to protect "identities" in the Metaverse from identity theft.
+
+Old Metaverse:
+It differs in hardware, software, and contents.
+
+Anwendungen:
+gaming; education; business; retail; real-estate;

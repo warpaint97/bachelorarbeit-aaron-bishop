@@ -1,0 +1,9 @@
+Definition:
+Snow Crash:
+"Internet-based" "virtual world" featuring "user-controlled" "avatars".
+
+Article's Metaverse:
+The Metaverse required "real-time", "low-latency" "networking" to enable many "participants/users" to "experience" "seamless interaction". Necessary advances include sense and "brain interfaces" ("multimodal input"), which will enhance "immersion". They are the basis for "VR" and "AR" achieved through devices connected into a "could computing" back end. Running multiple metaverse deployments requires "interoperability", which requires "open standards". People will be represented by avatars. "Digital artifacts/objects" can be "digital twins" or a simple object representation. Digital Twins are one of the entities populating the metaverse. "AI" will enable automatic behavior of dynamic things in the metaverse. Metaverse is a large-scale "economy" and the intersection between the economic and technological dimensions is enabled by "blockchain" technology and "NFTs". "Personalization" of the metaverse shall be possible. The metaverse can be viewed as a "large-scale" (vast) "societal" experiment. The intersection between social and technological aspects in the metaverse is based on "remote presence". The metaverse will need to be "persistent", live ("synchronous") and interoperable as well as include a fully functional economy.
+
+Anwendungen:
+gaming; business; industry; health; education; entertainment; simulation; trading; virtual markets; manufacturing robotics; hybrid work places;

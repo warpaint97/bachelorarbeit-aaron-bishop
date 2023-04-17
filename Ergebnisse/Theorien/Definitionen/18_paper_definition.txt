@@ -1,0 +1,4 @@
+"flag": "yellow: definition is not comprehensive (extra article)",
+
+Anwendungen:
+parallel driving; intelligent transportation; smart mobility;

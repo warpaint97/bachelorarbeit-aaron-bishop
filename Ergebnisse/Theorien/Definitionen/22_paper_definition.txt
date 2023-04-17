@@ -1,0 +1,4 @@
+"flag": "yellow: definition is not comprehensive",
+
+Anwendungen:
+control intelligence; knowledge automization;

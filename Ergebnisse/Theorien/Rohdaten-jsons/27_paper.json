@@ -1,0 +1,32 @@
+{
+    "title": "User Recommendation in Social Metaverse with VR",
+    "doi": "10.1145/3511808.3557487",
+    "language": "english",
+    "countries": ["Taiwan"],
+    "database": "ACM",
+    "type": "Research Article",
+    "meta": [
+        "serious",
+        "social"
+    ],
+    "variants": ["(VR-based) social metaverse"],
+    "keywords": [
+        "VR",
+        "5G",
+        "AI",
+        "users",
+        "interactive",
+        "multiple metaverses",
+        "interconnected",
+        "shared",
+        "persistent",
+        "3D",
+        "immersive",
+        "virtual",
+        "world",
+        "virtual environment",
+        "digital twins",
+        "avatars",
+        "AI agents"
+    ]
+}

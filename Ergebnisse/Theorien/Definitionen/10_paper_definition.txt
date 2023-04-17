@@ -1,0 +1,10 @@
+Definition:
+Lately, this vision of an interconnected virtual space for people to work, learn, play and share experiences with others has been formulated as the so-called “Metaverse”. It will rely heavily on "XR" and "blockchain" technology.
+XR devices collect "large amounts of data" (big data), including "biometric data" (e.g., eye gaze and body movement data) that are primarily used as "Natural User Interfaces" (NUIs) or for the proper functioning of technologies and "services".
+It's vision described an "enhanced, interconnected virtual space" where "users" will be able to "interact", play, work, learn, and exchange together, through the use of XR.
+Along with Web3.0,  the metaverse represents the "next evolution of the internet", which represents a paradigm shift in terms of "HCI", "ubiquity/pervasiveness", and "decentralization".
+The Metaverse represents an evolution of this vision to an even more immersive and interconnected extent, and a much bigger scale.
+One aspect of the metaverse is the development of "cross-platform, interconnected experiences" across the XR spectrum.
+
+Anwendungen:
+work; learn; play; share experiences with others; social;

@@ -1,0 +1,28 @@
+{
+    "title": "Towards an Emotionally Augmented Metaverse: a Framework for Recording and Analysing Physiological Data and User Behaviour",
+    "doi": "10.1145/3532530.3532546",
+    "language": "english",
+    "countries": ["Switzerland", "Italy", "China"],
+    "database": "ACM",
+    "type": "Short Paper",
+    "meta": [
+        "serious",
+        "academic"
+    ],
+    "variants": ["emotionally augmented metaverse", "augmented metaverse", "virtual metaverse"],
+    "keywords": [
+        "AR OR VR",
+        "experiences",
+        "immersive",
+        "shared",
+        "virtual",
+        "multiple worlds/environments",
+        "parallel universe",
+        "interactive",
+        "avatar",
+        "user",
+        "physiological sensors",
+        "emotional states",
+        "automatic content creation"
+    ]
+}

@@ -1,0 +1,10 @@
+Definition:
+Minimal Metaverse:
+With the recent advent of "virtual reality" (VR), "5G", and "artificial intelligence" (AI) technologies, "people" (users) can now interact in a metaverse, an "interconnected", "shared" and "persistent" "3D" "immersive" "virtual world/environment". It contains, "Avatars" and "AI agents" regarded as "digital twins".
+
+VR-based Social Metaverse:
+Metaverse users would be more satisfied if their 360-degree VR viewports show personally preferred users (personalization). There are four unique advantages over traditional social VR: Customization, Co-presence, Non-occlusion rendering, Liveness.
+Users can enjoy social interactions together and view customized recommended digital twins by leveraging personalized display. Customizing the rendering of surrounding users helps improve the social experiences with VR.
+
+Anwendungen:
+socializing; E-commerce; virtual exhibition; remote collaboration; art galleries;

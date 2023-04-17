@@ -1,0 +1,30 @@
+{
+    "flag": "red: No definition provided",
+    "title": "Foundations for Grassroots Democratic Metaverse",
+    "doi": "10.5555/3535850.3536116",
+    "language": "english",
+    "countries": ["Israel", "USA"],
+    "database": "ACM",
+    "type": "Short Paper",
+    "meta": [
+        "serious",
+        "political"
+    ],
+    "variants": [],
+    "keywords": [
+        "digital",
+        "democratic",
+        "equality",
+        "sybil-resilient",
+        "communities",
+        "DAOs",
+        "decentralized",
+        "cryptocurrencies",
+        "digital social contracts",
+        "open",
+        "available",
+        "peer-to-peer network",
+        "interconnected",
+        "interoperable"
+    ]
+}

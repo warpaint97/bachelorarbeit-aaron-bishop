@@ -1,0 +1,16 @@
+Definition:
+Minimal Metaverse:
+The metaverse is regarded as a new wave of technological transformation that provides a "virtual" "space" for people to "interact" through "digital" "avatars". To achieve "immersive" "user experiences" in the metaverse, "real-time" "rendering" is the key technology.
+Real-time rendering technologies (e.g., "extended reality" and "spatial sounding rendering") are considered to be the main interaction interfaces, which might cause a large quantity of computing.
+The number of "mobile devices" connected to "communication" "networks" will increase sharply with the advent of the metaverse. ("many users")
+There are "graphic and audio rendering" "services" in the metaverse.
+The virtual and physical environment can be blended together" in the metaverse (physical-virtuality). To achieve the immersive user experience either avatars or "3D" or "holographic digital media" can be used.
+Users have "many perception dimensions" in immersive "experiences" due to computations of graphic rendering and sound generation.
+
+Vehicular Metaverse:
+The vehicular metaverse integrates extended reality technologies and real-time motion data seamlessly to blend virtual and real space for drivers and passengers in vehicles, which is an emerging in-vehicle entertainment segment for the automotive market. It allows passengers and drivers to interact with a different reality during the vehicle ride.
+Vehicular metaverse services present the seamless fusion of virtual and real worlds for passengers with Virtual Reality (VR) or Augmented Reality (AR) technologies, which allow passengers to entertain themselves in vehicles. Passengers can see virtual scenes or objects through front windshields and side windows with the help of metaverse Internet of Things (IoT) devices. Blockchain can manage the interactions among entities in the metaverse by a decentralized, tamper-proof and transparent manner. Blockchain is utilized to achieve the decentralized management for Coded Distributed Computing (CDC) in the vehicular metaverse. The vehicular metaverse mainly includes the virtual world, physical world and interaction layer. Passengers can immerse themselves in the fusion of virtual and real scenarios through the interaction layer.
+The immersive user experience is a significant part of the interaction layer. CDC rendering task can be done by utilizing workers and miners.
+
+Anwendungen:
+computational arts; brain-to-speech; smart communication;

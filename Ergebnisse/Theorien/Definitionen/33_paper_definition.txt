@@ -1,0 +1,10 @@
+Definition:
+Minimal Metaverse:
+The "metaverse(s)" refers to a concept of a "persistent" "digital" "world" that converges technologies like "AR" and "VR" with physical reality ("physical-virtuality") and succeeds the "internet" of today. It strives for "immersive" venues for "social interaction" over a distance. AR/VR allows for "verbal and non-verbal communcation" channels.
+
+Social VR:
+A novel venue for mediated social experiences is Social VR, an emerging ecology of commercial applications for avatar-based remote social interaction in shared virtual environments using VR technology (i.e., HMDs). Social VR offers embodied and immersive social experiences comparable to face-to-face interaction due to its verbal and non-verbal expression capabilities and the variety of social activity contexts it offers. It strives to achieve interpersonal relationships.
+Sharing of personal physiological information, including facial features (e.g. through avatar creation or facial tracking), behavioral patterns, and voices. Biometric data can be used for effective use of the system.
+
+Anwendungen:
+social; relationships;

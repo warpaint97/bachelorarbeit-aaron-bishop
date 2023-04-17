@@ -1,0 +1,6 @@
+Definition:
+Web3.0 is the next decentralized phase of the internets evolution. It shall foster open environments with "decentralized" "blockchain-technologies" like DeFi, NFT and cryptocurrencies. Some applications of Web3.0 include DeFi, NFTs, P2E games and DAOs. DeFi protocols are run by smart contracts to elimated intermediaries to increase yield and returns for e.g. artists. Web3.0 focuses on ownership and control on the internet.
+Contrary, the Metaverse is about the "user experience" aspect. It's a "shared", "immersive", "embodied", "3D" "virtual reality environment" featuring "avatars", "digital objects/assets", and functioning "economies". Some applications are in fashion, virtual concerts and performances. While the most well-known "metaverses" currently are in the gaming sector, technology companies are developing metaverses focusing on diverse areas, such as fashion, virtual concerts, and performances.
+
+Anwendungen:
+fashion; virtual concerts; performances; games;
